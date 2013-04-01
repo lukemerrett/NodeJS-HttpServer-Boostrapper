@@ -10,9 +10,9 @@ Setup
 
 1. Ensure you have [Node.js](http://nodejs.org/) setup 
 2. Download this git repository
-3. Extract the repository into a folder (EG: C:\NodeBootstrap)
-4. Run "Node.js C:\NodeBootstrap\server.js"
-5. Go to http://localhost
+3. Extract the repository into a folder (EG: _C:\NodeBootstrap_)
+4. Run _Node.js C:\NodeBootstrap\server.js_
+5. Go to _http://localhost_
 
 Notes
 -----
